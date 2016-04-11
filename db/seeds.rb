@@ -8,9 +8,9 @@
 #
 #
 
-User.create(username: "tmoney1", email: "tmoney1@gmail.com", password: "tmoney", password_confirmation: "tmoney")
-User.create(username: "tmoney2", email: "tmoney2@gmail.com", password: "tmoney", password_confirmation: "tmoney")
-User.create(username: "tmoney3", email: "tmoney3@gmail.com", password: "tmoney", password_confirmation: "tmoney")
-User.create(username: "tmoney4", email: "tmoney4@gmail.com", password: "tmoney", password_confirmation: "tmoney")
-User.create(username: "tmoney5", email: "tmoney5@gmail.com", password: "tmoney", password_confirmation: "tmoney")
+User.create(username: "tmoney1", email: "tmoney1@gmail.com", password: "tmoney123", password_confirmation: "tmoney123")
+User.create(username: "tmoney2", email: "tmoney2@gmail.com", password: "tmoney123", password_confirmation: "tmoney123")
+User.create(username: "tmoney3", email: "tmoney3@gmail.com", password: "tmoney123", password_confirmation: "tmoney123")
+User.create(username: "tmoney4", email: "tmoney4@gmail.com", password: "tmoney123", password_confirmation: "tmoney123")
+User.create(username: "tmoney5", email: "tmoney5@gmail.com", password: "tmoney123", password_confirmation: "tmoney123")
 p "Test users created"
